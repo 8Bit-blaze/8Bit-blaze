@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @8Bit-blaze
 - 👀 I’m interested in learning coding languages 
-- 🌱 I’m currently learning  C
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him.
